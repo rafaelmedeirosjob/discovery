@@ -1,7 +1,7 @@
 🚀 **Next.js Invoice Manager**
 
 Welcome to the Next.js Invoice Manager project! This project is aimed at learning Next.js while implementing basic features such as user authentication, a dashboard, and CRUD operations for managing invoices.
-
+This project its run in Vercel and you can see the app in this link : https://discovery-alpha.vercel.app/
 ### Technologies Used
 - **Next.js**: The project is built using Next.js, a React framework that enables server-side rendering, routing, and other powerful features.
 - **Tailwind CSS**: Tailwind CSS is utilized for styling the components, providing a utility-first approach for rapid development and easy customization.
